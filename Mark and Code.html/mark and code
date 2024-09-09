@@ -1,0 +1,20 @@
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+</head>
+<body>
+<div class="container">
+    <p>2<sup>5</sup>-8<sup>4</sup> </p>
+</div>
+<div class="container">
+    <p>al<sub>1</sub>cl<sub>3</sub></p>
+</div>
+<div class="container">
+    <p>My name is <mark>Leonard</mark></p>
+    <p>These are codes i used in HTML coding <code>em</code>,<code>p</code>,<code>br</code>.</p>
+</div>
+
+</body>
+</html>
